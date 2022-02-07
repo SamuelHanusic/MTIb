@@ -2,13 +2,18 @@
 
 Interaktívny kurz pozostávajúci z Jupyter notebookov bežiacich online na serveri Binder s kernelmi SageMath, Python, R, Julia, Octave, JavaScript. 
 
-Kliknutím na ikonu "launch binder" spustíte interaktívne úložisko. 
-Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). 
-Po načítaní interaktívneho úložiska (všetkých jeho adresárov) je potrebné otvoriť priečinok s názvom "MTIb" a v ňom si môžete prehliadať/spúštať materiály k jednotlivým témam kurzu. Súbor "index.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici. 
+Tri spôsoby prehliadania/sťahovania súborov v tomto úložisku: 
 
-Konkrétne súbory (Jupyter notebooky) je možné prehliadať v statickom režime alebo sťahovať priamo tu z GitHub úložiska, prípadne tiež z interaktívneho Binder úložiska.  
+* Kliknutím na ikonu [![Binder](https://mybinder.org/badge_logo.svg)]() spustíte interaktívne úložisko.  Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). Po načítaní interaktívneho úložiska (všetkých jeho adresárov) je potrebné otvoriť priečinok s názvom "MTIb" a v ňom si môžete prehliadať/spúštať/sťahovať materiály k jednotlivým témam kurzu. Súbor "index.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici. 
+
+
+* Prehliadanie/sťahovanie Jupyter notebookov v statickom režime pomocou [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gajdosandrej/MTIb/tree/main/MTIb/)
+
+
+* Konkrétne súbory (Jupyter notebooky, pdf, ...) je možné prehliadať v statickom režime alebo sťahovať priamo tu z GitHub úložiska. Kvalita formátovania zobrazovaných Jupyter notebookov môže byť v tomto prípade odlišná (horšia) od originálu. 
+
 
 Objavovaniu, experimentovaniu a štúdiu zdar! :-) 
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+
 
