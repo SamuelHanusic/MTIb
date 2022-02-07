@@ -1,6 +1,6 @@
 # Matematika pre informatikov II (MTIb)
 
-Jupyter notebook bežiaci online na serveri Binder s kernelmi SageMath, Python, R, Julia, Octave, JavaScript. 
+Interaktívny kurz pozostávajúci z Jupyter notebookov bežiacich online na serveri Binder s kernelmi SageMath, Python, R, Julia, Octave, JavaScript. 
 
 Kliknutím na ikonu "launch binder" spustíte interaktívne úložisko. 
 Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). 
