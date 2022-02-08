@@ -4,13 +4,13 @@ Interaktívny kurz pozostávajúci z Jupyter notebookov bežiacich online na ser
 
 Tri spôsoby prehliadania/sťahovania súborov v tomto úložisku: 
 
-* Kliknutím na ikonu [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gajdosandrej/MTIb.git/HEAD) spustíte interaktívne úložisko.  Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). Po načítaní interaktívneho úložiska (všetkých jeho adresárov) je potrebné otvoriť priečinok s názvom "MTIb" a v ňom si môžete prehliadať/spúštať/sťahovať materiály k jednotlivým témam kurzu. Súbor "index.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici. 
+* Kliknutím na ikonu [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gajdosandrej/MTIb.git/HEAD) spustíte interaktívne úložisko.  Prvé spustenie resp. načítanie môže trvať až niekoľko minút (môže sa to stať aj inokedy pri preťaženosti serverov). Po načítaní interaktívneho úložiska (všetkých jeho adresárov) je potrebné otvoriť priečinok s názvom "MTIb" a v ňom si môžete prehliadať/spúštať/sťahovať materiály k jednotlivým témam kurzu. Súbor "index_MTIb.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici. 
 
 
-* Kliknutím na ikonu [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gajdosandrej/MTIb/tree/main/MTIb/) spustíte prehliadanie/sťahovanie Jupyter notebookov v statickom režime pomocou nbviewer (výnimkou sú 3D grafy, ktoré je možné otáčať/približovať). Súbor "index.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici.
+* Kliknutím na ikonu [![nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/gajdosandrej/MTIb/tree/main/MTIb/) spustíte prehliadanie/sťahovanie Jupyter notebookov v statickom režime pomocou nbviewer (výnimkou sú 3D grafy, ktoré je možné otáčať/približovať). Súbor "index_MTIb.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici.
 
 
-* Konkrétne súbory (Jupyter notebooky, pdf, ...) je možné prehliadať v statickom režime alebo sťahovať priamo tu z GitHub úložiska. Kvalita formátovania zobrazovaných Jupyter notebookov môže byť v tomto prípade odlišná (horšia) od originálu. Súbor "index.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici. 
+* Konkrétne súbory (Jupyter notebooky, pdf, ...) je možné prehliadať v statickom režime alebo sťahovať priamo tu z GitHub úložiska. Kvalita formátovania zobrazovaných Jupyter notebookov môže byť v tomto prípade odlišná (horšia) od originálu. Súbor "index_MTIb.ipynb" Vám môže uľahčiť orientáciu v tejto online interaktívnej učebnici. 
 
 
 Objavovaniu, experimentovaniu a štúdiu zdar! :-) 
